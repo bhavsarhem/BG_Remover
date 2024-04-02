@@ -2,4 +2,3 @@ streamlit
 rembg
 pillow
 numpy
-streamlit-download-button
